@@ -1,3 +1,5 @@
+A simple movie recommendation system using TMDB API.
+
 
 example api request use
 https://api.themoviedb.org/3/movie/550?api_key=986373d5b72b31cfb88b4be3ea46b303
